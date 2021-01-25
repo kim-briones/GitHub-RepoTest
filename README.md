@@ -1,22 +1,3 @@
 # GitHub-RepoTest
 Test
-1
-
-2
-
-3 webhoook
-
-4 test plsss
-
-5 push please
-
-6 test
-
-7 test..
-
-8 test commit
-
-
-
-
-1 2 3 test
+1 2 3
